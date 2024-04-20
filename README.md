@@ -1,0 +1,2 @@
+# CreativeTechPersonalProject: Future Plant Fossils
+This project has to do with how contemporary people experience through plant fossils how post-humans will learn about current plants through future plant fossils. In my idea, the future plant fossils will be virtual, and by recording the genes of plants in a database and restoring the form, color and growing environment of plants, it will provoke people to think about the current ecological environment and plant conservation.
